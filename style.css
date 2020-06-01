@@ -1,0 +1,114 @@
+.background-color {
+    background-color: #1b2838;
+}
+
+p {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black !important
+}
+
+.espaço-nome {
+    padding-top: 15px;
+}
+
+.conteiner {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.conteiner-contato {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.foto-perfil {
+    height: 100%;
+    max-width: auto;
+    border-radius: 100%;
+    max-height: 300px;
+    border: 0px;
+}
+
+.icones {
+    margin: 10px;
+    font-size: 40px;
+}
+
+.seta {
+    max-height: 50px;
+}
+
+.naves {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.tirulosBrancos1 {
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1b2838
+}
+
+.paragrafoBrancos {
+    color: white !important;
+}
+
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.corPrimaria {
+    background-color: #1b2838;
+}
+
+.itemMenu {
+    color: white;
+}
+
+.estudante {
+    font-size: 30px;
+}
+
+.Age {
+    padding-top: 0,5px;
+    font-size: small;
+}
+
+.ing {
+    padding-top: 70px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.backtop { 
+    padding-left: 0,3px;
+    padding-right: 0,3px;
+}
